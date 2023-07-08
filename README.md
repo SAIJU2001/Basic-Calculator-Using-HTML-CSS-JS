@@ -12,9 +12,10 @@ Used : HTML, CSS, JavaScript
 
 # Website Link :  
 https://basic-calculator.saiju2001.repl.co
-![calculator](https://github.com/SAIJU2001/Basic-Calculator-Using-HTML-CSS-JS/assets/102968768/7bb83559-5d71-4dbd-b27a-c7fc90b0d74b)
 
 # Website: 
+![calculator](https://github.com/SAIJU2001/Basic-Calculator-Using-HTML-CSS-JS/assets/102968768/7bb83559-5d71-4dbd-b27a-c7fc90b0d74b)
+
 <h1 align="center">Hi 👋, I'm saikat naskar</h1>
 <h3 align="center">A passionate developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saiju2001&label=Profile%20views&color=0e75b6&style=flat" alt="saiju2001" /> </p>
