@@ -1,5 +1,5 @@
 # Basic-Calculator-Using-HTML-CSS-JS
-It is the Basic Calculator Website whish performs the basic mathematical operation Addition,Multiplication,Subtraction,Divivsion,Mod.
+It is the Basic Calculator Website which performs the basic mathematical operation Addition,Multiplication,Subtraction,Divivsion,Mod.
 
 # Description
 A calculator is a device that performs arithmetic operations on numbers. Basic calculators can do only addition, subtraction, multiplication and division mathematical calculations.
